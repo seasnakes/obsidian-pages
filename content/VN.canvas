@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"0ff92372780fd5b5","x":805,"y":-40,"width":250,"height":60,"type":"text","text":"nanobanana生图"},
+		{"id":"6cf6538d0d1a1394","x":1570,"y":24,"width":250,"height":60,"type":"text","text":"https://deepghs.org/waifuc/main/advanced_guides/ccip/index.html"},
+		{"id":"7aaf71a60d9a4685","x":1600,"y":130,"width":160,"height":50,"type":"text","text":"动作 "},
+		{"id":"0d6231157806c1bc","x":1635,"y":210,"width":250,"height":60,"type":"text","text":"表情"},
+		{"id":"6d8db5aedf8319d3","type":"text","text":"服装","x":1695,"y":305,"width":190,"height":55},
+		{"id":"5d3b52bf66944ded","x":500,"y":20,"width":250,"height":60,"type":"text","text":"llm 负责生成具体画面描述、景别、构图、角度光影"},
+		{"id":"c5d2c674baf824e3","x":-160,"y":-160,"width":160,"height":60,"type":"text","text":"agent"},
+		{"id":"1ad63ea8251d2443","x":70,"y":-280,"width":140,"height":60,"type":"text","text":"对话小说"},
+		{"id":"f6d6047ba3eacb82","type":"text","text":"章纲","x":70,"y":-160,"width":140,"height":60},
+		{"id":"6be6e875bb10ec03","type":"text","text":"角色背景","x":70,"y":0,"width":140,"height":60},
+		{"id":"545860bbf924df99","x":1228,"y":-181,"width":250,"height":91,"type":"text","text":"所有配图都是关于男主\n除非需要交代背景 可能会有关于临时出场的npc "},
+		{"id":"37ff7ff44148edd7","x":720,"y":-460,"width":250,"height":60,"type":"text","text":"需要去搜索参考图"},
+		{"id":"45b1f7a2abeeea9f","x":805,"y":80,"width":250,"height":60,"type":"text","text":"扣除背景"},
+		{"id":"767ea23b070b26be","x":805,"y":-165,"width":250,"height":60,"type":"text","text":"最终的画面prompt"},
+		{"id":"05b37011cd183fd9","x":805,"y":215,"width":250,"height":60,"type":"text","text":"切换动作、视角"},
+		{"id":"5bd416673cc2dc93","x":260,"y":-220,"width":150,"height":60,"type":"text","text":"原文"},
+		{"id":"faa302afd817105c","x":260,"y":-110,"width":150,"height":60,"type":"text","text":"画面内容描述"},
+		{"id":"b7fce130387e4c99","x":250,"y":380,"width":250,"height":60,"type":"text","text":"**呈现顶级3A级 角色，真实皮肤质感 - 自然毛孔和细腻纹理 ，冷调白皙肤质（呈现细腻奶油光泽，皮肤纹理自然，带轻微高光提亮），发丝呈丝绒光泽，发尾卷曲蓬松，发根有空气感，发丝层次分明，光下泛柔和高光，高对比、高细节、8K 渲染、****PBR** **材质全开、表面纹理极度真实。高品质****cg** **渲染，逼真细腻材质表现（皮草毛绒质感、亮片闪烁效果、珍珠光泽），丰富细节刻画，专业角色设计，****8k分辨率****，电影级照明**"},
+		{"id":"efb7c3e724590bf2","type":"text","text":"对于图片的统一要求 第一人称 竖图、人物都在画面中央\n\n正面侧面\n\n35 50 85mm","x":270,"y":-20,"width":140,"height":240},
+		{"id":"a1d74b9bc4a539a4","type":"text","text":"角色立绘参考","x":270,"y":260,"width":140,"height":60},
+		{"id":"5f348ade3b7f61db","x":1441,"y":503,"width":250,"height":60,"type":"text","text":""},
+		{"id":"243f491329d27c5d","x":1191,"y":215,"width":250,"height":60,"type":"text","text":"人提供参考图"},
+		{"id":"fedd60934167283f","x":1540,"y":-135,"width":250,"height":60,"type":"text","text":""},
+		{"id":"48e4a1dfb284cb13","x":1228,"y":84,"width":250,"height":60,"type":"text","text":"角色一致性判定"}
+	],
+	"edges":[]
+}

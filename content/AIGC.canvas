@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"cea8c439d6432b4a","type":"text","text":"flux krea","x":-120,"y":-216,"width":223,"height":69},
+		{"id":"820a12992c859f60","type":"text","text":"kontext lora","x":-120,"y":-400,"width":223,"height":69},
+		{"id":"501778fdeb256d46","type":"text","text":"极梦工作流（像素风）","x":23,"y":-18,"width":250,"height":60},
+		{"id":"b1f7f2173ff2e4fc","type":"text","text":"wan2.2 首尾帧/i2v","x":-300,"y":-18,"width":250,"height":60},
+		{"id":"fbfe75272d758a76","type":"text","text":"色彩问题 ？","x":360,"y":-18,"width":250,"height":60},
+		{"id":"b1e6594ef2ec355e","type":"text","text":"阿里qwen-image汉字需求","x":205,"y":-216,"width":250,"height":60},
+		{"id":"177c987dbde53cfd","type":"text","text":"之前古风的lora","x":162,"y":-331,"width":223,"height":69},
+		{"id":"6d935c062fc53c4e","type":"text","text":"joycaption(反推)","x":-540,"y":-186,"width":240,"height":64},
+		{"id":"1c1ae8cc1a824a00","type":"text","text":"seedvr","x":-300,"y":80,"width":250,"height":60},
+		{"id":"a6c14ef0d3c55c21","type":"text","text":"kimi","x":-540,"y":-292,"width":250,"height":60},
+		{"id":"49e09465a1d69e69","type":"text","text":"万兴喵影","x":63,"y":280,"width":250,"height":60},
+		{"id":"e1dfdb957fcd5fe5","type":"text","text":"昇腾 CANN","x":335,"y":380,"width":150,"height":60},
+		{"id":"e7cd2735b9c1c0d5","type":"text","text":"摩尔线程","x":88,"y":380,"width":155,"height":60},
+		{"id":"40fc0495e4d32031","type":"text","text":"东芯-砺算 7g","x":-205,"y":380,"width":180,"height":60},
+		{"id":"968ff42ae7ec7a34","type":"text","text":"ltx studio","x":63,"y":170,"width":250,"height":60},
+		{"id":"0443c4c9a4f1e62b","type":"text","text":"opencut","x":-258,"y":170,"width":250,"height":60},
+		{"id":"03758dbcd5e7f15d","type":"text","text":"webav","x":-600,"y":170,"width":250,"height":60},
+		{"id":"ca433783d69b3492","type":"text","text":"白日梦","x":385,"y":170,"width":250,"height":60},
+		{"id":"cd7e08e69328dc7f","x":700,"y":280,"width":140,"height":60,"type":"text","text":"Bside"},
+		{"id":"6713f80cb07bc3aa","type":"text","text":"kispics","x":860,"y":280,"width":140,"height":60},
+		{"id":"d87a8d2be99a8157","x":512,"y":-194,"width":250,"height":60,"type":"text","text":"qwen image edit"}
+	],
+	"edges":[
+		{"id":"bebeb3de1621c8ed","fromNode":"820a12992c859f60","fromSide":"bottom","toNode":"cea8c439d6432b4a","toSide":"top"},
+		{"id":"a16f880aa715a225","fromNode":"6d935c062fc53c4e","fromSide":"right","toNode":"cea8c439d6432b4a","toSide":"left"},
+		{"id":"207b811de3db8e13","fromNode":"177c987dbde53cfd","fromSide":"left","toNode":"cea8c439d6432b4a","toSide":"top"},
+		{"id":"763131744308d1d5","fromNode":"cea8c439d6432b4a","fromSide":"bottom","toNode":"b1f7f2173ff2e4fc","toSide":"top"},
+		{"id":"a7bfdc8cc898fa1e","fromNode":"cea8c439d6432b4a","fromSide":"bottom","toNode":"501778fdeb256d46","toSide":"top"},
+		{"id":"b8c9f5f4c804c24a","fromNode":"b1e6594ef2ec355e","fromSide":"left","toNode":"cea8c439d6432b4a","toSide":"top"},
+		{"id":"5aad0420ea5c6316","fromNode":"a6c14ef0d3c55c21","fromSide":"right","toNode":"cea8c439d6432b4a","toSide":"left"},
+		{"id":"5f0dd77fc62d010c","fromNode":"b1f7f2173ff2e4fc","fromSide":"bottom","toNode":"1c1ae8cc1a824a00","toSide":"top"}
+	]
+}
