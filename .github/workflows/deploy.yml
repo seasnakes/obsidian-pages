@@ -1,4 +1,5 @@
 name: Deploy Quartz site to GitHub Pages
+# Builds the Quartz site and publishes it with GitHub Pages.
 
 on:
   push:
