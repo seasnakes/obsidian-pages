@@ -1,10 +1,5 @@
 ---
-title: SeASnAkE
+title: 内容整理中
 ---
 
-Obsidian 库的公开站。笔记和画布都可以从这里打开，画布支持缩放。
-
-- [[blueprint.canvas|blueprint]]
-- [[minimax.canvas|minimax]]
-- [[AIGC.canvas|AIGC]]
-- [[主线|主线]]
+笔记正在重新整理，整理完成后再更新。
